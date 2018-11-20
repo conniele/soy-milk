@@ -1,0 +1,306 @@
+
+html, body {
+	background-color:#1b14ad;
+}
+
+img {max-width: 100%}
+
+#grad {
+    background-image: linear-gradient(#1b14ad, #aa159f);
+}
+
+
+
+/*BG Elements*/
+#moon{
+	background:url('images/moon1a.png');
+	position:absolute;
+	max-width:416px;
+	max-height:380px;
+	top:-10px;
+	left:10px;
+	z-index: 1;
+}
+
+#cat{
+	background:url('images/cat.png');
+	position:absolute;
+	max-width:305px;
+	max-height:229px;
+	top:2728px;
+	left:520px;
+	z-index: 3;
+}
+
+#laundry{
+	background:url('images/laundry.png');
+	position:absolute;
+	max-width:619px;
+	max-height:327px;
+	top:3655px;
+	left:385px;
+	z-index: 2;
+}
+
+#cat2{
+	background:url('images/catfish.png');
+	position:absolute;
+	max-width:262px;
+	max-height:243px;
+	top:4915px;
+	left:880px;
+	z-index: 3;
+}
+
+#tree{
+	background:url('images/tree.png');
+	position:absolute;
+	max-width:324px;
+	max-height:447px;
+	top:5650px;
+	left:615px;
+	z-index: 2;
+}
+
+#grass{
+	background:url('images/grass.png');
+	position:absolute;
+	max-width:100%;
+	max-height:100%;
+	top:6065px;
+	left:0px;
+	z-index: 2;
+}
+/*Row 1*/
+
+#win1{
+	background:url('images/win1a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:643px;
+	left:235px;
+	z-index: 1;
+}
+
+
+#win2{
+	background:url('images/win2a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:643px;
+	left:565px;
+	z-index: 1;
+}
+
+#win3{
+	background:url('images/win3a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:643px;
+	left:895px;
+	z-index: 1;
+}
+
+/*Row 2*/
+
+#win4{
+	background:url('images/win4a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:1117px;
+	left:235px;
+	z-index: 1;
+}
+
+#win5{
+	background:url('images/win5a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:1117px;
+	left:565px;
+	z-index: 1;
+}
+
+#win6{
+	background:url('images/win6a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:1115px;
+	left:895px;
+	z-index: 1;
+}
+
+/*Row 3*/
+
+#win7{
+	background:url('images/win7a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:1828px;
+	left:235px;
+	z-index: 1;
+}
+
+#win8{
+	background:url('images/win8a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:1828px;
+	left:565px;
+	z-index: 1;
+}
+
+#win9a{
+	background:url('images/win9.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:1828px;
+	left:895px;
+	z-index: 1;
+}
+
+/*Row 4*/
+
+#win9{
+	background:url('images/win9a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:2382px;
+	left:235px;
+	z-index: 1;
+}
+
+#win10{
+	background:url('images/win10a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:2382px;
+	left:565px;
+	z-index: 1;
+}
+
+#win11a{
+	background:url('images/win11.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:2382px;
+	left:895px;
+	z-index: 1;
+}
+/*FIGHT 5*/
+#win11{
+	background:url('images/win11a.png');
+	position:absolute;
+	max-width:420px;
+	max-height:590px;
+	top:3145px;
+	left:275px;
+	z-index: 1;
+}
+
+#win12a{
+	background:url('images/win12.png');
+	position:absolute;
+	max-width:420px;
+	max-height:590px;
+	top:3145px;
+	left:750px;
+	z-index: 1;
+}
+/*Row 6*/
+
+#win12{
+	background:url('images/win12a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:410px;
+	top:4080px;
+	left:235px;
+	z-index: 1;
+}
+
+#win13a{
+	background:url('images/win13.png');
+	position:absolute;
+	max-width:308px;
+	max-height:410px;
+	top:4080px;
+	left:565px;
+	z-index: 1;
+}
+
+#win13{
+	background:url('images/win13a.png');
+	position:absolute;
+	max-width:308px;
+	max-height:410px;
+	top:4080px;
+	left:895px;
+	z-index: 1;
+}
+
+/*Row 7*/
+
+#win14{
+	background:url('images/win14a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:440px;
+	top:4559px;
+	left:235px;
+	z-index: 1;
+}
+
+#win15{
+	background:url('images/win14a.png');
+	position:absolute;
+	max-width:310px;
+	max-height:440px;
+	top:4559px;
+	left:565px;
+	z-index: 1;
+}
+
+#win16a{
+	background:url('images/win16.png');
+	position:absolute;
+	max-width:310px;
+	max-height:440px;
+	top:4559px;
+	left:895px;
+	z-index: 1;
+}
+
+#curtain{
+	background:url('images/curtain16.png');
+	position:absolute;
+	max-width:316px;
+	max-height:222px;
+	top:4600px;
+	left:940px;
+	z-index: 2;
+}
+/*Row 8*/
+
+#win16{
+	background:url('images/win16a.png');
+	position:absolute;
+	max-width:507px;
+	max-height:507px;
+	top:5340px;
+	left:225px;
+	z-index: 1;
+}
+
